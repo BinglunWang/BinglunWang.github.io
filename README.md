@@ -10,7 +10,7 @@ bxw135@student.bham.ac.uk<br>
 09/2021-09/2022<br>
 **Major**: Master of Science in Artificial Intelligence and Machine Learning <br> 
 **Grades**: 80%<br>
-**Expected Degree Award: **: Distinction<br>
+**Expected Degree Award**: Distinction<br>
 
 * **Northwest University, China**<br>
 09/2017-07/2021<br>
