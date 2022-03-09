@@ -73,7 +73,7 @@ Graduate Dissertation / Supervisor: Lu Lin
   + Arranged ICPC programming training for the society
   + Offered ICPC programming tutorial for the society members
   
-* **	Video Blogger, Bilibili (a Chinese video sharing website) & YouTube [Bilibili.](https://space.bilibili.com/255125226?spm_id_from=333.1007.0.0) [Youtube.](https://www.youtube.com/channel/UCDUA25QnpR0Gp-TUVl0Z3sA)**<br>
+* **Video Blogger, Bilibili (a Chinese video sharing website) & YouTube [Bilibili.](https://space.bilibili.com/255125226?spm_id_from=333.1007.0.0) [Youtube.](https://www.youtube.com/channel/UCDUA25QnpR0Gp-TUVl0Z3sA)**<br>
 2018-now
   + Share tutorial videos of algorithm problems and algorithm exercises
   + 180+ videos & 1800+ fans
