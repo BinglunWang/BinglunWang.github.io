@@ -29,9 +29,8 @@ bxw135@student.bham.ac.uk<br>
   + Implemented segmentation task and improved the performance of 4NNs (UNet, DeepLab, SegNet, FCN) in small dataset (training dataset: 100 grayscale intensity images at 96 × 96 resolution）
   + Results: The best test dice score achieved 0.891 (bagging of UNet3+ and UNet) <br>
 
-
 * Image Classification in Deep learning, Degree Project, University of Essex [pdf.](Image_Classification.pdf)<br>
-2020-2021<br>
+2020-2021
 Graduate Dissertation / Supervisor: Lu Lin
   + Summarised and investigated several significant modern convolutional neural networks: LeNet, AlexNet, VGGNet, GoogLeNet
   + Analysed the effectiveness of optimisers, data augmentation, dropout layer, and batch normalisation with extensive experiments 
@@ -48,6 +47,7 @@ Graduate Dissertation / Supervisor: Lu Lin
 |**Silver Medalist**|2019 ICPC Asia Regional Contest (Yinchan Site)|
 |**Bronze Medalist**|2019 ICPC Asia Regional Contest (Nanjing Site)|
 |**Bronze Medalist**|2019 National Collegiate Programming Contest of China (Ha’erbin site)|
+
 
 ### WORK EXPERIENCE
 
