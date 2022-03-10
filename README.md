@@ -25,7 +25,7 @@ bxw135@student.bham.ac.uk<br>
 ### RESEARCH EXPERIENCE
 
 * Semantic Segmentation of Cardiac Magnetic Resonance (CMR) Images using Deep Learning, module project, University of Birmingham [html.](Semantic_Segmentation.html)<br>
-2021<br>
+2021
   + Implemented segmentation task and improved the performance of 4NNs (UNet, DeepLab, SegNet, FCN) in small dataset (training dataset: 100 grayscale intensity images at 96 × 96 resolution）
   + Results: The best test dice score achieved 0.891 (bagging of UNet3+ and UNet) <br>
 
