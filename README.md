@@ -38,17 +38,6 @@ bxw135@student.bham.ac.uk<br>
 
 ### PROGRAMMING CONTESTS
 
-
-|Category|Name|
-|:---|:---|
-|**Rank 29th**:|2022 Pawpularity Contest, Kaggle|
-|**First-class scholarship**:|2019 Northwest University|
-|**Excellent Minister of the Student Union**:|2019 Northwest University|
-|**Second-class scholarship**:|2018 Northwest University|
-|**National prize of “Thousands of Universities and Thousands of Projects”**:|2018 Voluntary Work in Rural Education|
-|**School-level Third Prize**:|2018 China College Students' 'Internet+' Innovation and Entrepreneurship Competition|
-|**School-level First Prize**:|2018 China College Students’ Entrepreneurship Competition, Northwest University|
-
 |Category|Name|
 |:---|:---|
 |**Fifth Place & Gold Medalist**|2021 Provincial Collegiate Programming Contest of China (Guangxi site)|
