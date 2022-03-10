@@ -15,12 +15,12 @@ bxw135@student.bham.ac.uk<br>
 * **Northwest University, China**<br>
 09/2017-07/2021<br>
 **Major**: Bachelor of Engineering in Electronic Information Science and Technology (Sino-foreign Cooperation in Running Schools) <br>
-**Grades**: 79% in First three years, first degree in last year of University of Essex
+**Grades**: 79% in First three years, first degree in last year of University of Essex<br>
 
 * **University of Essex, UK** <br>
 11/2017-06/2021<br>
-**Major**: Bachelor of Science in Electronic System Engineering
-**Degree Award**: Honours Class II (Division I)
+**Major**: Bachelor of Science in Electronic System Engineering<br>
+**Degree Award**: Honours Class II (Division I)<br>
 
 ### RESEARCH EXPERIENCE
 
