@@ -43,7 +43,7 @@ bxw135@student.bham.ac.uk<br>
 |**Fifth Place & Gold Medalist**|2021 Provincial Collegiate Programming Contest of China (Guangxi site)|
 |**Silver Medalist**|2020 International Collegiate Programming Contest (ICPC) Asia Regional Contest (Yinchan Site)|
 |**Silver Medalist**|2020 National Collegiate Programming Contest of China (Mianyang site)|
-|**Silver Medalist**|2019 ICPC Asia-East Continent Final|
+|**Silver Medalist**|2019 ICPC Asia-East Continent Final [png.](201912ACM国际大学生程序设计竞赛亚洲区域赛决赛银牌.png)| 
 |**Silver Medalist**|2019 ICPC Asia Regional Contest (Yinchan Site)|
 |**Bronze Medalist**|2019 ICPC Asia Regional Contest (Nanjing Site)|
 |**Bronze Medalist**|2019 National Collegiate Programming Contest of China (Ha’erbin site)|
