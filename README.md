@@ -40,14 +40,13 @@ bxw135@student.bham.ac.uk<br>
 
 |Category|Name|
 |:---|:---|
-|**Fifth Place & Gold Medalist**|2021 Provincial Collegiate Programming Contest of China (Guangxi site)|
-|**Silver Medalist**|2020 International Collegiate Programming Contest (ICPC) Asia Regional Contest (Yinchan Site)|
-|**Silver Medalist**|2020 National Collegiate Programming Contest of China (Mianyang site)|
-|**Silver Medalist**|2019 ICPC Asia-East Continent Final [png.](201912ACM国际大学生程序设计竞赛亚洲区域赛决赛银牌.png)| 
-|**Silver Medalist**|2019 ICPC Asia Regional Contest (Yinchan Site)|
-|**Bronze Medalist**|2019 ICPC Asia Regional Contest (Nanjing Site)|
-|**Bronze Medalist**|2019 National Collegiate Programming Contest of China (Ha’erbin site)|
-
+|**Fifth Place & Gold Medalist**|2021 Provincial Collegiate Programming Contest of China (Guangxi site)[pdf.](2021-GXCPC-获奖证书-打星队.pdf)| 
+|**Silver Medalist**|2020 International Collegiate Programming Contest (ICPC) Asia Regional Contest (Yinchan Site)[pdf.](2021-Asia Yinchuan 2020-MEDAL.pdf)| 
+|**Silver Medalist**|2020 National Collegiate Programming Contest of China (Mianyang site)[pdf.](202011中国大学生程序设计竞赛2020绵阳站银牌.jpg)| 
+|**Silver Medalist**|2019 ICPC Asia-East Continent Final [pdf.](201912ACM国际大学生程序设计竞赛亚洲区域赛决赛银牌.png)| 
+|**Silver Medalist**|2019 ICPC Asia Regional Contest (Yinchan Site) [pdf.](201910ACM国际大学生程序设计竞赛亚洲区域赛银牌（银川站）.pdf)|
+|**Bronze Medalist**|2019 ICPC Asia Regional Contest (Nanjing Site)[pdf.](201911ACM国际大学生程序设计竞赛亚洲区域赛铜牌（南京站）.pdf)| 
+|**Bronze Medalist**|2019 National Collegiate Programming Contest of China (Ha’erbin site)[pdf.](201910中国大学生程序设计竞赛2019哈尔滨站铜牌.jpg)| 
 
 ### WORK EXPERIENCE
 
