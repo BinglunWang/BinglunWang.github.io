@@ -24,6 +24,10 @@ bxw135@student.bham.ac.uk<br>
 
 ### RESEARCH EXPERIENCE
 
+* Deep learning-based 3D Human Pose Estimation (HPE) from Images/Videos, module project, University of Birmingham [pdf.](topics.pdf)<br>
+2022
+  + Reviewed the current topic in AI & Machine Learning <br>
+
 * Semantic Segmentation of Cardiac Magnetic Resonance (CMR) Images using Deep Learning, module project, University of Birmingham [html.](Semantic_Segmentation.html)<br>
 2021
   + Implemented segmentation task and improved the performance of 4NNs (UNet, DeepLab, SegNet, FCN) in small dataset (training dataset: 100 grayscale intensity images at 96 × 96 resolution）
