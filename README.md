@@ -7,7 +7,7 @@ binglun.wang.22@ucl.ac.uk<br>
 ### EDUCATION
 
 * **University College London, UK**<br>
-09/2021-09/2022<br>
+09/2022-09/2023<br>
 **Major**: Master of Science in Computer Graphics, Vision and Imaging <br> 
 
 * **University of Birmingham, UK**<br>
