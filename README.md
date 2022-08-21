@@ -25,6 +25,9 @@ binglun.wang.22@ucl.ac.uk<br>
 **Major**: Bachelor of Science in Electronic System Engineering<br>
 **Degree Award**: Honours Class II (Division I)<br>
 
+### RESEARCH INTERESTS
+* Computer Vision, Deep Learning
+
 ### RESEARCH EXPERIENCE
 
 * Deep learning-based 3D Human Pose Estimation (HPE) from Images/Videos, module project, University of Birmingham [pdf.](topics.pdf)<br>
@@ -95,7 +98,3 @@ binglun.wang.22@ucl.ac.uk<br>
 |**National prize of “Thousands of Universities and Thousands of Projects”**:|2018 Voluntary Work in Rural Education|
 |**School-level Third Prize**:|2018 China College Students' 'Internet+' Innovation and Entrepreneurship Competition|
 |**School-level First Prize**:|2018 China College Students’ Entrepreneurship Competition, Northwest University|
-
-
-### RESEARCH INTERESTS
-* Computer Vision, Specifically, medical Image analysis
