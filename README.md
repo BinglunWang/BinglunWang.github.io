@@ -1,16 +1,19 @@
 # Binglun Wang
-Artificial Intelligence and Machine Learning(MSc)<br>
-University of Birmingham<br>
+Computer Graphics, Vision and Imaging (MSc)<br>
+University College London <br>
 +44 7724807306 <br>
-bxw135@student.bham.ac.uk<br>
+binglun.wang.22@ucl.ac.uk<br>
 
 ### EDUCATION
+
+* **University College London, UK**<br>
+09/2021-09/2022<br>
+**Major**: Master of Science in Computer Graphics, Vision and Imaging <br> 
 
 * **University of Birmingham, UK**<br>
 09/2021-09/2022<br>
 **Major**: Master of Science in Artificial Intelligence and Machine Learning <br> 
-**Grades**: 80%<br>
-**Expected Degree Award**: Distinction<br>
+**Expected Degree Award**: Distinction <br>
 
 * **Northwest University, China**<br>
 09/2017-07/2021<br>
@@ -33,7 +36,7 @@ bxw135@student.bham.ac.uk<br>
   + Implemented segmentation task and improved the performance of 4NNs (UNet, DeepLab, SegNet, FCN) in small dataset (training dataset: 100 grayscale intensity images at 96 × 96 resolution）
   + Results: The best test dice score achieved 0.891 (bagging of UNet3+ and UNet) <br>
 
-* Image Classification in Deep learning, Degree Project, University of Essex [pdf.](Image_Classification.pdf)<br>
+* Image Classification in Deep learning, Degree Project, University of Essex <!--[pdf.](Image_Classification.pdf)--><br>
 2020-2021
   + Summarised and investigated several significant modern convolutional neural networks: LeNet, AlexNet, VGGNet, GoogLeNet
   + Analysed the effectiveness of optimisers, data augmentation, dropout layer, and batch normalisation with extensive experiments 
@@ -44,13 +47,13 @@ bxw135@student.bham.ac.uk<br>
 
 |Category|Name|
 |:---|:---|
-|**Fifth Place & Gold Medalist**|2021 Provincial Collegiate Programming Contest of China (Guangxi site)[pdf.](2021-GXCPC-获奖证书-打星队.pdf)| 
-|**Silver Medalist**|2020 International Collegiate Programming Contest (ICPC) Asia Regional Contest (Yinchan Site)[pdf.](2021_Asia_Yinchuan_MEDAL.pdf)| 
-|**Silver Medalist**|2020 National Collegiate Programming Contest of China (Mianyang site)[pdf.](202011中国大学生程序设计竞赛2020绵阳站银牌.jpg)| 
-|**Silver Medalist**|2019 ICPC Asia-East Continent Final [pdf.](201912ACM国际大学生程序设计竞赛亚洲区域赛决赛银牌.png)| 
-|**Silver Medalist**|2019 ICPC Asia Regional Contest (Yinchan Site) [pdf.](201910ACMYinchuan.pdf)|
-|**Bronze Medalist**|2019 ICPC Asia Regional Contest (Nanjing Site)[pdf.](201911Nanjing.pdf)| 
-|**Bronze Medalist**|2019 National Collegiate Programming Contest of China (Ha’erbin site)[pdf.](201910中国大学生程序设计竞赛2019哈尔滨站铜牌.jpg)| 
+|**Fifth Place & Gold Medalist**|2021 Provincial Collegiate Programming Contest of China (Guangxi site)<!--[pdf.](2021-GXCPC-获奖证书-打星队.pdf)-->|  
+|**Silver Medalist**|2020 International Collegiate Programming Contest (ICPC) Asia Regional Contest (Yinchan Site) <!--[pdf.](2021_Asia_Yinchuan_MEDAL.pdf)-->| 
+|**Silver Medalist**|2020 National Collegiate Programming Contest of China (Mianyang site)<!--[pdf.](202011中国大学生程序设计竞赛2020绵阳站银牌.jpg)-->| 
+|**Silver Medalist**|2019 ICPC Asia-East Continent Final <!--[pdf.](201912ACM国际大学生程序设计竞赛亚洲区域赛决赛银牌.png)-->| 
+|**Silver Medalist**|2019 ICPC Asia Regional Contest (Yinchan Site) <!--[pdf.](201910ACMYinchuan.pdf)-->|
+|**Bronze Medalist**|2019 ICPC Asia Regional Contest (Nanjing Site)<!--[pdf.](201911Nanjing.pdf)-->| 
+|**Bronze Medalist**|2019 National Collegiate Programming Contest of China (Ha’erbin site)<!--[pdf.](201910中国大学生程序设计竞赛2019哈尔滨站铜牌.jpg)-->| 
 
 ### WORK EXPERIENCE
 
