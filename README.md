@@ -6,4 +6,4 @@ In September 2022, I finished another MSc (Distinction) in Artificial Intelligen
 
 My research interest in computer graphics and neuroscience. I hope to explore new ways using AI as tools to enhance human efficiency and life in a specific area.
 
-You are welcome to check out my [CV](Binglun_CV.pdf).
+<!-- You are welcome to check out my [CV](Binglun_CV.pdf). -->
