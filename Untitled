@@ -1,0 +1,1542 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Ayaan Haque</title>
+  
+  <meta name="author" content="Ayaan Haque">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:image" content="images/2022_circle_cropped_pfp.png" />
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="stylesheet" type="text/css" href="alt.css">
+  <link rel="icon" type="image/png" href="images/2022_circle_cropped_pfp.png">
+  <script src="https://kit.fontawesome.com/dc4da0b3ff.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+  <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+
+</head>
+
+<body id="home">
+
+  <!-- <header>
+    <nav>
+        <ul class="nav__links" style="list-style-type:none">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#research">Research</a></li>
+            <li><a href="#service">Community Service</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#activities">Activities</a></li>
+            <li><a href="#talks">Talks</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#awards">Awards</a></li>
+            <li><a href="#writing">Writing</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#socials">Socials</a></li>
+        </ul>
+    </nav>
+</header> -->
+
+
+  <table style="width:100%;max-width:1000px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:70%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Ayaan Haque</name>
+              </p>
+              <p>
+                Hi! I'm Ayaan Haque, a 20 y/o research scientist at <a href="https://lumalabs.ai/">Luma AI</a>. I'm also a student at <a href="https://eecs.berkeley.edu/">UC Berkeley</a> studying EECS, where I'm advised by <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>. 
+                I'm currently interested in training generative models. Recently, I worked on <a href="https://lumalabs.ai/genie">Genie</a>,
+                Luma's text to 3D foundation model which can generate high-fidelty 3D objects in seconds.
+              </p>
+                In the past, I've worked on self-supervised and unsupervised representation learning. I've previously interned at <a href="https://www.samsungsds.com/us/index.html">Samsung SDSA</a>, and got my research career jumpstarted back in high school with <a href="https://med.stanford.edu/wanggroup.html">Wang Group</a> at <a href="https://med.stanford.edu/rsl.html">Stanford</a>.
+                At Berkeley, I'm a part of <a href="https://ml.berkeley.edu/">Machine Learning @ Berkeley</a> and the <a href="https://docs.nerf.studio/">Nerfstudio</a> team.
+              </p>
+              <p>
+                In a past life, I was a builder and hacker (I'm a <a href="https://top.mlh.io/2021/profiles/ayaan-haque">MLH Top-50 Hacker!</a>), and now I'm exploring deep-tech startups. Other than that, I enjoy writing, watching/playing sports, eating out with friends,
+                and just having a good time. My ongoing goal and dream:
+              </p>
+              <p style="text-align:center">
+                <img src='images/inspirational-tweet.png' width="400">
+              </p>
+              <p style="text-align:center">
+                <a href="https://twitter.com/ayaanzhaque">Twitter</a> &nbsp/&nbsp
+                <a href="mailto:ayaanzhaque@berkeley.edu">Email</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?user=OWDai70AAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
+                <a href="https://github.com/ayaanzhaque/">Github</a> &nbsp/&nbsp
+                <!-- <a href="data/ayaan_haque_resume1_2023.pdf">Resume</a> &nbsp/&nbsp -->
+                <!-- <a href="https://ayaanzhaque.medium.com/">Medium</a> &nbsp/&nbsp -->
+                <!-- <a href="https://devpost.com/ayaanzhaque">Devpost</a> &nbsp/&nbsp -->
+                <a href="https://www.linkedin.com/in/ayaan-haque/">LinkedIn</a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:70%;max-width:70%">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/2022_circle_cropped_pfp.png" class="hoverZoomLink">
+              <div style="text-align:center">
+                <i style="text-align:center">Learning about learning 💯</i>
+              </div>
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="updates"><tbody>
+          <tr>
+          <td style="padding:20px;width:100%;vertical-align:middle">
+            <heading>Updates</heading>
+            <p>
+              <ul>
+                <li>
+                  <b>[Jan 2024]</b> Joining <a href="https://lumalabs.ai/">Luma</a> (now a <a href="https://lumalabs.ai/series-b">Series B</a> company) full-time!
+                </li>
+                <li>
+                  <b>[October 2023]</b> Gave <a href="https://youtu.be/4AOqcjH5_3U">oral talk</a> on Instruct-NeRF2NeRF at ICCV in Paris! 
+                </li>
+                <li>
+                  <b>[July 2023]</b> Instruct-NeRF2NeRF accepted to ICCV 2023 (Oral)!
+                </li>
+                <li>
+                  <b>[May 2023]</b> Joining <a href="https://lumalabs.ai/">Luma AI</a>, a Series A startup building the future of 3D!
+                </li>
+                <li>
+                  <b>[Mar 2023]</b> Released new pre-print <a href="https://instruct-nerf2nerf.github.io/">Instruct-NeRF2NeRF</a>!
+                </li>
+                <li>
+                  <b>[August 2022]</b> Starting my undergrad at <a href="https://eecs.berkeley.edu/">UC Berkeley</a> to study EECS!
+                </li>
+                <!-- <li>
+                  <b>[Nov 2022]</b> <a href="https://arxiv.org/abs/2208.04278">SSL-MeshCNN</a> accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>!
+                </li>
+                <li>
+                  <b>[Sep 2022]</b> Joined <a href="https://ml.berkeley.edu/">Machine Learning @ Berkeley</a>!
+                </li>
+                <li>
+                  <b>[Aug 2022]</b> Released new <a href="https://arxiv.org/abs/2208.04278">preprint</a> with Samsung on contrastive learning for mesh segmentation
+                </li>
+                <li>
+                  <b>[June 2022]</b> Joining <a href="https://www.samsungsds.com/us/index.html">Samsung SDSA</a> as a Research Intern
+                </li>
+                <li>
+                  <b>[April 2022]</b> Committed to <a href="https://eecs.berkeley.edu/">UC Berkeley</a> to study EECS! (First update)
+                </li> -->
+              </ul>
+            </p>
+          </td>
+        </tr>
+      </tbody></table>
+        
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="research"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+              <p>
+                Since I've worked on a wide variety of topics (and am still exploring new topics), I've split my publications into currently relevant works and previous works.
+                <b>Only relevant works are listed below.</b> For a full list (and chronological list) of my papers,
+                visit my <a href="https://scholar.google.com/citations?user=OWDai70AAAAJ&hl=en">Google Scholar</a>.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+          <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              <div class="one">
+                <div class="two"><video  width=220 muted autoplay loop>
+                <source src="images/in2n_animation.mp4" class='thumbnail' type="video/mp4">
+              </div>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://instruct-nerf2nerf.github.io/">
+                <papertitle>Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions</papertitle>
+              </a>
+              <br>
+              
+              <strong>Ayaan Haque</strong>,
+              <a href="https://www.matthewtancik.com/">Matthew Tancik</a>,
+              <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>,
+              <a href="https://holynski.org/">Aleksander Holynski</a>,
+              <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>
+              <br>
+              UC Berkeley
+              <br>
+              <em><a href="https://iccv2023.thecvf.com/">ICCV</a></em>, 2023 <span style="color:red">(Oral Presentation)</span> 
+              <br>
+              <a href="https://instruct-nerf2nerf.github.io/">Project Page</a> /
+              <a href="https://arxiv.org/abs/2303.12789">ArXiv</a> /
+              <a href="https://youtu.be/4AOqcjH5_3U">Oral</a> /
+              <a href="https://github.com/ayaanzhaque/instruct-nerf2nerf">Code</a>
+              <p></p>
+              <p>We propose a method for editing NeRF scenes with text-instructions. Given a NeRF of a scene and the collection 
+                of images used to reconstruct it, our method uses an image-conditioned diffusion model (InstructPix2Pix) to 
+                iteratively edit the input images while optimizing the underlying scene, resulting in an optimized 3D scene that 
+                respects the edit instruction.
+              </p>
+            </td>
+          </tr>
+
+          <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              <div class="one">
+                <img src='images/ssl-meshcnn.png' class = "thumbnail" width="220">
+              </div>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2208.04278">
+                <papertitle>Self-Supervised Contrastive Representation Learning for 3D Mesh Segmentation</papertitle>
+              </a>
+              <br>
+              
+              <strong>Ayaan Haque</strong>,
+              <a href="https://www.linkedin.com/in/hankyu-moon-b678b910">Hankyu Moon</a>,
+              <a href="https://www.linkedin.com/in/heng-hao-36a5b997">Heng Hao</a>,
+              <a href="https://scholar.google.com/citations?user=e7JYe3cAAAAJ&hl=en">Sima Didari</a>,
+              <a href="https://sites.google.com/site/jaeohwoo/">Jae Oh Woo</a>,
+              <a href="https://scholar.google.com/citations?hl=en&user=tpa6iwkAAAAJ&view_op=list_works">Patrick Bangert</a>
+              <br>
+              Samsung SDS Research America
+              <br>
+              <em><a href = "https://aaai.org/Conferences/AAAI-23/">AAAI</a></em>, 2023
+              <br>
+              <a href="https://arxiv.org/abs/2208.04278">ArXiv</a> /
+              <a href="data/SSL_MeshCNN_Poster.pdf">Poster</a>
+              <p></p>
+              <p>We introduce self-supervised MeshCNN, or SSL-MeshCNN, a novel mesh-specialized contrastive learning method to 
+                perform downstream segmentation with limited-labeled data. We create an augmentation policy tailored for meshes,
+                enabling the network to learn efficient visual representations through contrastive pre-training.
+              </p>
+            </td>
+          </tr>
+
+          <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              <div class="one">
+                <img src='images/sdcnl.png' class = "thumbnail" width="220">
+              </div>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://ayaanzhaque.github.io/SDCNL/">
+                <papertitle>Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction</papertitle>
+              </a>
+              <br>
+              
+              <strong>Ayaan Haque*</strong><sup>1</sup>,
+              <a href="https://github.com/viraajreddi">Viraaj Reddi</a>*<sup>1</sup>,
+              <a href="https://tylergiallanza.github.io/">Tyler Giallanza</a><sup>2</sup>
+              <br>
+              Saratoga High School<sup>1</sup>, Princeton University<sup>2</sup>
+              <br>
+              <em><a href = "https://e-nns.org/icann2021/">ICANN</a></em>, 2021
+              <br>
+              <a href="https://ayaanzhaque.github.io/SDCNL/">Project Page</a> /
+              <a href="https://arxiv.org/abs/2102.09427">ArXiv</a> /
+              <a href="https://www.youtube.com/watch?v=-JVbne534sQ">Teaser Video</a> /
+              <a href="data/SDCNL Poster.pdf">Poster</a> /
+              <a href="https://github.com/ayaanzhaque/SDCNL">Code</a> /
+              <a href="https://towardsdatascience.com/nlp-for-suicide-and-depression-identification-with-noisy-labels-98d7bb98f3e8?sk=43d9806e0975695c08e6b19ad36b3a9f">Blog</a>
+              <p></p>
+              <p>We propose SDCNL to address the unexplored problem of classifying between depression and more severe suicidal 
+                tendencies using web-scraped data. Our method introduces a novel label correction 
+                method to remove inherent noise in web-scraped data using unsupervised learning combined with a deep-learning classifier 
+                based on pre-trained transformers.
+              </p>
+            </td>
+          </tr>
+
+          <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+          <td style="padding:20px;width:30%;vertical-align:middle">
+            <div class="one">
+              <img src='images/multimix_diagram.png' class = "thumbnail" width="220">
+            </div>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://ayaanzhaque.github.io/MultiMix/">
+              <papertitle>MultiMix: Sparingly Supervised, Extreme Multitask Learning From Medical Images</papertitle>
+            </a>
+            <br>
+            
+            <strong>Ayaan Haque*</strong><sup>1</sup>,
+            <a href="https://aaz-imran.github.io/">Abdullah-Al-Zubaer Imran</a>*<sup>2,3</sup>,
+            <a href="https://profiles.stanford.edu/adamwang">Adam Wang</a><sup>2</sup>,
+            <a href="http://web.cs.ucla.edu/~dt/">Demetri Terzopoulos</a><sup>3,4</sup>
+            <br>
+            Saratoga High School<sup>1</sup>, Stanford University<sup>2</sup>, University of California, Los Angeles<sup>3</sup>, VoxelCloud Inc.<sup>4</sup>
+            <br>
+            <em><a href = "https://biomedicalimaging.org/2021/">IEEE ISBI</a></em>, 2021
+            <br>
+            <a href="https://ayaanzhaque.github.io/MultiMix/">Project Page</a> /
+            <a href="https://arxiv.org/abs/2010.14731">ArXiv</a> /
+            <a href="data/ISBI2021_Poster.pdf">Poster</a> /
+            <a href="data/MultiMix Stanford Template.pptx.pdf">Presentation</a> /
+            <a href="https://github.com/ayaanzhaque/MultiMix">Code</a> /
+            <a href="https://towardsdatascience.com/consistent-semi-supervised-explainable-multi-tasking-for-medical-imaging-aa96abbb3b07?sk=b8f60f02ef17f098dff8d96fa1ce3096">Blog</a>
+            <p></p>
+            <p>We introduce MultiMix, a joint semi-supervised classification and segmentation model 
+              employing a confidence-based augmentation strategy for semi-supervised classification 
+              along with a novel saliency bridge module that guides segmentation and provides explainability
+              for the joint tasks.
+            </p>
+          </td>
+        </tr>
+
+          <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              <div class="one">
+                <img src='images/ECGAN.png' class = "thumbnail" width="220">
+              </div>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://ayaanzhaque.github.io/EC-GAN/">
+                <papertitle>EC-GAN: Low-Sample Classification using Semi-Supervised Algorithms and GANs</papertitle>
+              </a>
+              <br>
+              
+              <strong>Ayaan Haque</strong>
+              <br>
+              Saratoga High School
+              <br>
+              <em><a href = "https://aaai.org/Conferences/AAAI-2">AAAI</a></em>, 2021 <span style="color:red">(Best Student Abstract Finalist, Oral Presentation)</span> 
+              <br>
+              <a href="https://ayaanzhaque.github.io/EC-GAN/">Project Page</a> /
+              <a href="https://arxiv.org/abs/2012.15864">ArXiv</a> /
+              <a href="https://slideslive.com/38951242/ecgan-lowsample-classification-using-semisupervised-algorithms-and-gans?ref=account-83491-history">Oral</a> /
+              <a href="data/ec_gan_poster.pdf">Poster</a> /
+              <a href="data/ec_gan_presentation.pdf">Presentation</a> /
+              <a href="https://github.com/ayaanzhaque/EC-GAN">Code</a> /
+              <a href="https://towardsdatascience.com/artificial-data-for-image-classification-5b2ede40640f?sk=173ee5ca1849a81af7f4a58b4dd91c99">Blog</a>
+              <p></p>
+              <p>We propose EC-GAN, which combines a Generative Adversarial Network with a classifier to leverage artifical GAN 
+                generations to increase the size of restricted, fully-supervised datasets using semi-supervised algorithms. 
+                Mentored by Microsoft Postdoc and Princeton University PhD <a href = "http://www.jordantash.com/">Jordan T. Ash.</a>
+              </p>
+            </td>
+          </tr>
+
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="future-research"><tbody>
+          <tr>
+          <td style="padding:20px;width:100%;vertical-align:middle">
+            <subheading>Previous Research</subheading>
+          </td>
+        </tr>
+      </tbody></table>
+
+      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+        <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <img src='images/sspwam.jpg' class = "thumbnail" width="220">
+            </div>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://ayaanzhaque.github.io/Noise2Quality/">
+              <papertitle>Noise2Quality: Non-Reference, Pixel-Wise Assessment of Low Dose CT Image Quality</papertitle>
+            </a>
+            <br>
+          
+            <strong>Ayaan Haque</strong><sup>1, 2</sup>,
+            <a href="https://profiles.stanford.edu/adamwang">Adam Wang</a><sup>2</sup>,
+            <a href="https://aaz-imran.github.io/">Abdullah-Al-Zubaer Imran</a><sup>2</sup>
+            <br>
+            Saratoga High School<sup>1</sup>, Stanford University<sup>2</sup>
+            <br>
+            <em><a href = "https://spie.org/conferences-and-exhibitions/medical-imaging">SPIE Medical Imaging (SPIE)</a>, 2022</em>
+            <br>
+            <a href="https://ayaanzhaque.github.io/Noise2Quality/">Project Page</a> /
+            <a href="https://spie.org/medical-imaging/presentation/Noise2Quality--non-Reference-pixel-wise-assessment-of-low-dose/12035-55?SSO=1">Paper</a> /
+            <a href="/data/SPIE Teaser Presentation.pptx.pdf">Presentation</a> /
+            <a href="/data/SPIE Poster.pptx.pdf">Poster</a> /
+            <a href="https://github.com/ayaanzhaque/Noise2Quality">Code</a>
+            <p></p>
+            <p>We propose Noise2Quality (N2Q), a novel, self-supervised IQA model which predicts SSIM Image Quality maps from 
+              low-dose CT. We propose a self-supervised regularization task of dose-level estimation creating a 
+              multi-tasking framework to improve performance.
+            </p>
+          </td>
+        </tr>
+
+        <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <img src='images/sswl-idn.png' class = "thumbnail" width="220">
+            </div>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://ayaanzhaque.github.io/SSWL-IDN/">
+              <papertitle>Window Level is a Strong Denoising Surrogate</papertitle>
+            </a>
+            <br>
+            
+            <strong>Ayaan Haque</strong><sup>1, 2</sup>,
+            <a href="https://profiles.stanford.edu/adamwang">Adam Wang</a><sup>2</sup>,
+            <a href="https://aaz-imran.github.io/">Abdullah-Al-Zubaer Imran</a><sup>2</sup>
+            <br>
+            Saratoga High School<sup>1</sup>, Stanford University<sup>2</sup>
+            <br>
+            <em><a href = "https://miccai2021.org/">MICCAI MLMI</a>, 2021</em>
+            <br>
+            <a href="https://ayaanzhaque.github.io/SSWL-IDN/">Project Page</a> /
+            <a href="https://arxiv.org/abs/2105.07153">ArXiv</a> /
+            <a href="data/MLMI Poster Final.pptx.pdf">Poster</a> /
+            <a href="https://github.com/ayaanzhaque/SSWL-IDN">Code</a> /
+            <a href="https://towardsdatascience.com/sswl-idn-self-supervised-ct-denoising-208fde94583e?sk=b450af4d2a8ee8c4eeed9f42041f9b0f">Blog</a>
+            <p></p>
+            <p>We introduce SSWL-IDN, a novel self-supervised CT denoising window-level prediction surrogate task. Our method is task-relevant
+              and related to the downstream task, yielding improved performance over recent methods.
+            </p>
+          </td> 
+        </tr>
+
+        <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+          <td style="padding:20px;width:30%;vertical-align:middle">
+            <div class="one">
+              <img src='images/multimix_journal_diagram.jpg' class = "thumbnail" width="220">
+            </div>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://ayaanzhaque.github.io/MultiMix/">
+              <papertitle>Generalized Multi-Task Learning from Substantially Unlabeled Multi-Source Medical Image Data</papertitle> 
+            </a>
+            <br>
+            
+            <strong>Ayaan Haque</strong><sup>1, 2</sup>,
+            <a href="https://aaz-imran.github.io/">Abdullah-Al-Zubaer Imran</a><sup>2,3</sup>,
+            <a href="https://profiles.stanford.edu/adamwang">Adam Wang</a><sup>2</sup>,
+            <a href="http://web.cs.ucla.edu/~dt/">Demetri Terzopoulos</a><sup>3,4</sup>
+            <br>
+            Saratoga High School<sup>1</sup>, Stanford University<sup>2</sup>, University of California, Los Angeles<sup>3</sup>, VoxelCloud Inc.<sup>4</sup>
+            <br>
+            <em><a href = "https://www.melba-journal.org/">MELBA</a></em>, 2021
+            <br>
+            <a href="https://ayaanzhaque.github.io/MultiMix/">Project Page</a> /
+            <a href="https://www.melba-journal.org/papers/2021:011.html">Journal Page</a> /
+            <a href="https://arxiv.org/abs/2110.13185">Paper</a> /
+            <a href="https://github.com/ayaanzhaque/MultiMix">Code</a>
+            <p></p>
+            <p>We expand upon MultiMix (in ISBI 2021). Our extended manuscript contains a detailed 
+              explanation of the methods, saliency map visualizations from multiple datasets, and 
+              quantitative (performance metrics tables) and qualitative (mask predictions, Bland 
+              Altman plots, ROC curves, consistency plots).
+            </p>
+          </td>
+        </tr>
+
+        <!-- <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <img src='images/3N-GAN.jpg' class = "thumbnail" width="220">
+            </div>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2109.13862">
+              <papertitle>3N-GAN: Semi-Supervised Classification of X-Ray Images with a 3-Player Adversarial Framework</papertitle>
+            </a>
+            <br>
+            Shafin Haque*,
+            <strong>Ayaan Haque*</strong>
+            <br>
+            Saratoga High School
+            <br>
+            <em><a href = "">ArXiv</a></em>, 2021
+            <br>
+            <a href="https://arxiv.org/abs/2109.13862">ArXiv</a> /
+            <a href="https://github.com/ayaanzhaque/3N-GAN">Code</a>
+            <p></p>
+            <p>We propose 3N-GAN, or 3 Network Generative Adversarial Networks, to perform semi-supervised 
+              classification of medical images in fully-supervised settings. We incorporate a classifier 
+              into the adversarial relationship such that the generator trains adversarially against both 
+              the classifier and discriminator. <b>(Authors contributed equally)</b>
+            </a>
+            </p>
+          </td>
+        </tr>
+
+        <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <img src='images/convolutionalnets.png' class = "thumbnail" width="220">
+            </div>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://arxiv.org/abs/2108.04358">
+              <papertitle>Convolutional Nets for Diabetic Retinopathy Screening in Bangladeshi Patients</papertitle>
+            </a>
+            <br>
+            <strong>Ayaan Haque</strong><sup>1,2</sup>
+            <a href="">Ipsita Sutradhar</a><sup>2</sup>,
+            <a href="">Mahziba Rahman</a><sup>2</sup>,
+            <a href="">Mehedi Hasan</a><sup>2</sup>,
+            <a href="">Malabika Sarker</a><sup>2</sup>
+            <br>
+            Saratoga High School<sup>1</sup>,
+            BRAC University School of Public Health<sup>2</sup>
+            <br>
+            <em><a href = "https://arxiv.org/abs/2108.04358">ArXiv</a></em>, 2021
+            <br>
+            <a href="https://arxiv.org/abs/2108.04358">ArXiv</a> /
+            <a href="https://github.com/Drishti-BD/Drishti-CNN">Code</a> /
+            <a href="https://github.com/Drishti-BD/Drishti-CAD">CAD Designs</a> /
+            <a href="https://drishtiai.org/">Application (Drishti)</a>
+            <p></p>
+            <p>This paper presents specifications on the deep learning model implemented in <a href="https://drishtiai.org/">Drishti</a>. The paper outlines the process 
+              of performing deep learning classication of diabetic retinopathy and contains extensive evaluation of the method
+              on real fundus images collected from the Bangladesh Eye Hospital and BRAC University.
+            </p>
+          </td> 
+        </tr> -->
+
+        <!-- <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+          <td style="padding:20px;width:30%;vertical-align:middle">
+            <div class="one">
+              <img src='images/roboticspaper.png' class = "thumbnail" width="220">
+            </div>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://ayaanzhaque.github.io/FCE-NN">
+              <papertitle>Simulated Data Generation Through Algorithmic Force Coefficient Estimation for AI-Based Robotic Projectile Launch Modeling</papertitle>
+            </a>
+            <br>
+            
+            <a href="http://sajivshah.me/">Sajiv Shah</a>*<sup>1</sup>,
+            <strong>Ayaan Haque*</strong><sup>1</sup>,
+            <a href="https://www.ucsdarclab.com/people">Fei Liu</a><sup>2</sup>
+            <br>
+            Saratoga High School<sup>1</sup>, University of California, San Diego<sup>2</sup>
+            <br>
+            <em><a href = "http://www.acirs.org/">IEEE ACIRS</a></em>, 2021 <span style="color:red">(Best Presentation, Oral Presentation)</span>
+            <br>
+            <a href="https://ayaanzhaque.github.io/FCE-NN">Project Page</a> /
+            <a href="https://arxiv.org/abs/2105.12833">ArXiv</a> /
+            <a href="https://youtu.be/rkAp8RS7gqc">Oral</a> /
+            <a href="data/FCE-NN Presentation.pdf">Presentation</a> /
+            <a href="data/FCE-NN Poster.pdf">Poster</a> /
+            <a href="https://github.com/ayaanzhaque/FCE-NN">Code</a> /
+            <a href="https://towardsdatascience.com/deep-learning-for-projectile-trajectory-modeling-fb6380e06b8f?sk=e61aa8399c1fd64dcb9b7bc6591ef5d8">Blog</a>
+            <p></p>
+            <p>We propose FCE-NN, a novel method of modeling robotic launching of non-rigid objects using neural networks which are trained 
+              with supplemental simulated data, generated from algorithmic force coefficient estimation.
+            </p>
+          </td>
+        </tr> -->
+
+      </tbody></table>
+        
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="experience"><tbody>
+        <tr>
+        <td style="padding:20px;width:100%;vertical-align:middle">
+          <heading>Experience</heading>
+        </td>
+      </tr>
+    </tbody></table>
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <img src='images/luma.jpeg' class = "thumbnail" width="180">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://lumalabs.ai/">
+            <papertitle>Research Scientist at Luma AI</papertitle>
+          </a>
+          <br>
+          
+          <span id="left">Palo Alto, CA</span>
+          <span id="right">May 2023 - Present</span>
+          <br>
+          <p>
+
+            <ul>
+              <li>Generative AI startup building the future of visual AI, raised <a href="https://lumalabs.ai/series-b">$43 million Series B</a></li>
+              <li>Released <a href="https://lumalabs.ai/genie">Genie</a>, a text to 3D foundation model which can generate high-fidelty 3D objects in seconds</li>
+            </ul>
+
+          </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <img src='images/bair.png' class = "thumbnail" width="180">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://people.eecs.berkeley.edu/~kanazawa/">
+            <papertitle>Research Intern at Berkeley AI Research (BAIR)</papertitle>
+          </a>
+          <br>
+          
+          <span id="left">Kanazawa AI Lab (KAIR), Berkeley, CA</span>
+          <span id="right">Dec 2022 - Present</span>
+          <br>
+          <p>
+
+            <ul>
+              <li>Working on NeRFs and diffusion models</li>
+            </ul>
+
+          </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <img src='images/samsung.jpeg' class = "thumbnail" width="180">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://www.samsungsds.com/us/index.html">
+            <papertitle>Research Intern at Samsung SDSA</papertitle>
+          </a>
+          <br>
+          
+          <span id="left">AI Research Group, San Jose, CA</span>
+          <span id="right">June 2022 - September 2022</span>
+          <br>
+          <p>
+
+            <ul>
+              <li>Proposed "SSL-MeshCNN", a novel self-supervised algorithm for segmenting non-uniform, irregular 3D meshes</li>
+              <li>Introduced new SimCLR-inspired stochastic augmentation policy for mesh-specialized contrastive learning</li>
+              <li>Matched accuracy of fully-supervised training (90.50%) with just 67% of labels on benchmark datasets</li>
+              <li>Wrote paper accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>, available on <a href="https://arxiv.org/abs/2208.04278">ArXiv</a></li>
+            </ul>
+
+          </p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <img src='images/wanggroup.png' class = "thumbnail" width="180">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://med.stanford.edu/wanggroup/people.html">
+            <papertitle>Research Intern at Stanford</papertitle>
+          </a>
+          <br>
+          
+          <span id="left">Wang Group in RSL, Stanford, CA</span>
+          <span id="right">July 2020 - June 2022</span>
+          <br>
+          <p>
+
+            <ul>
+              <li>Worked on learning from limited labeled data for clinical imaging tasks using unsupervised, self-supervised, and semi-supervised techniques</li>
+              <li>Developed research skills by running hundreds of experiments, writing papers, preparing supplementals, and writing rebuttals</li>
+            </ul>
+
+          </p>
+        </td>
+      </tr>
+
+      <!-- <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <img src='images/reu.png' class = "thumbnail" width="180">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://med.stanford.edu/wanggroup/people.html">
+            <papertitle>Research Intern in REU Program at Stanford's RSL</papertitle>
+          </a>
+          <br>
+          
+          <span id="left">RSL @ Stanford, Stanford, CA</span>
+          <span id="right">June 2021 - August 2021</span>
+          <br>
+          <p>
+
+            <ul>
+              <li>Participated in Stanford's Radiological Sciences Lab Research Experience for Undergraduates (REU) summer program</li>
+              <li>Attended talks and lectures with fellow undergraduate researchers, only high schooler in the program</li>
+              <li>Attended group meetings with Wang Group</li>
+            </ul>
+
+          </p>
+        </td>
+      </tr> -->
+
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <img src='images/ow.jpg' class = "thumbnail" width="180">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://openwater.vc/">
+            <papertitle>Software Engineering Intern at Openwater Accelerator</papertitle>
+          </a>
+          <br>
+          
+          <span id="left">Internal SWE Team, Menlo Park, CA</span>
+          <span id="right">August 2020 - December 2020</span>
+          <br>
+          <p>
+
+            <ul>
+              <li>Accelerator providing early-stage startups with software and human capital instead of direct funding (closed as of late 2021)</li>
+              <li>Developing a Waitlist API which is to be sold to porfolio companies in the program, where companies can establish
+                waitlists for their products to build a market</li>
+              <li>Using React.js, MongoDB, Flask and other web dev/backend tech, integrating Stripe payment features and referral features, writing documentation</li>
+            </ul>
+
+          </p>
+        </td>
+      </tr>
+
+      <!-- <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <img src='images/tdslogo.jpeg' class = "thumbnail" width="180">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <a href="https://ayaanzhaque.medium.com/">
+            <papertitle>Content Writer for Towards Data Science</papertitle>
+          </a>
+          <br>
+          
+          <span id="left">Medium</span>
+          <span id="right">June 2020 - Present</span>
+          <br>
+          <p>
+  
+            <ul>
+              <li> Writer on Medium for multiple publications: <a href="https://towardsdatascience.com/">Towards Data Science</a> (Primary, 577k, top publication), <a href="https://betterprogramming.pub/">Better Programming</a>
+                (154k), <a href="https://codeburst.io/">Codeburst</a> (100k), <a href="https://pub.towardsai.net/">TowardsAI</a> (22k), and more</li>
+              <li>4x Editor’s Pick on TDS, chosen for Hands on Tutorial and Thoughts and Theory Column, Featured on Medium home page twice, 21.6k+ total
+                views, 3800+ likes</li>
+              <li>Wrote articles about AI/CS topics, activities and projects, and tips and advice</li>
+            </ul>
+  
+          </p>
+        </td>
+      </tr> -->
+
+    </tbody></table>
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="activities"><tbody>
+      <tr>
+      <td style="padding:20px;width:100%;vertical-align:middle">
+        <heading>Activities</heading>
+        <p>
+          Outside of research, I enjoy building practical applications in both competitive and casual formats.
+        </p>
+      </td>
+    </tr>
+  </tbody></table>
+  
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/hacksquad.png' class = "thumbnail" width="180">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://github.com/ayaanzhaque/">
+          <papertitle>Hackathons</papertitle>
+        </a>
+        <br>
+        
+        <span id="left">Team Captain</span>
+        <span id="right">May 2019 - June 2022</span>
+        <br>
+        <p>
+
+          <ul>
+            <li>Team Captain of 5 total members (shoutout Viraaj, Adithya, Ishaan, and Sajiv)</li>
+            <li>Created numerous projects (listed in <a href="#projects">Projects</a> section)</li>
+            <li>🏆 33x Award Winner, 9x First Place, 22x Top 3, $10,000+ in earnings</li>
+            <li>Chosen for <a href="https://top.mlh.io/2021/profiles/ayaan-haque">MLH Top 50 Hackers Class of 2021</a>, one of five high schoolers</li>
+          </ul>
+
+        </p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/mset.png' class = "thumbnail" width="180">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://msetfish.weebly.com/">
+          <papertitle>MSET Robotics Team 649</papertitle>
+        </a>
+        <br>
+        
+        <span id="left">Software Team</span>
+        <span id="right">August 2018 - April 2021</span>
+        <br>
+        <p>
+
+          <ul>
+            <li>FRC Robotics Software Team, ML-Specialist (FTC Captain 9th Grade)</li>
+            <li>Worked with AI/ML for in-game object detection and using predictive models for shot selection, work on shooter
+              trajectory modeling, write documentation</li>
+            <li>🏆 2021 Skills Competition Finalist in Carbon Group 🏆 2021 Engineering Excellence Award 🏆 CalGames 2019 Finalist 🏆 ChezyChamps 2019 Semi-Finalist</li>
+          </ul>
+
+        </p>
+      </td>
+    </tr>
+
+  </tbody></table>
+
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="projects"><tbody>
+      <tr>
+      <td style="padding:20px;width:100%;vertical-align:middle">
+        <heading>Projects</heading>
+        <p>
+          I've just listed a few of my favorite projects, and the remaining are available on my <a href="https://github.com/ayaanzhaque">Github</a>. On Github, I have 500+ commits and ~300 stars across all my repositories.
+          Check out this cool commit <a href="https://skyline.github.com/ayaanzhaque/2021">graph</a>, and check this out for my Github <a href="https://github.com/ayaanzhaque/ayaanzhaque">stats</a>.
+        </p>
+      </td>
+    </tr>
+  </tbody></table>
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+    <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/nerfstudio-logo.jpeg' class = "thumbnail" width="180">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://docs.nerf.studio/en/latest/">
+          <papertitle>Nerfstudio</papertitle>
+        </a>
+        <br>
+        
+        <i>A collaboration friendly studio for NeRFs</i>
+        <br>
+        Jan 2023 - Present
+        <br>
+        <a href="https://docs.nerf.studio/">Website</a> /
+        <a href="https://github.com/nerfstudio-project/nerfstudio">Github</a>
+        <p></p>
+        <p>Contribute (in small parts) to large-scale open-source project. Helped implement research methods (Instruct-NeRF2NeRF, CLIP-based NeRF)
+          into main repository.
+        </p>
+        <p>
+          <b>Stack</b>: Python, PyTorch
+        </p>
+      </td>
+    </tr>
+
+    <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/suisense.png' class = "thumbnail" width="180">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://suisense.space/">
+          <papertitle>SuiSense</papertitle>
+        </a>
+        <br>
+        
+        <i>Using Artificial Intelligence to distinguish between suicidal and depressive messages</i>
+        <br>
+        June 2020 - Dec 2020
+        <br>
+        <a href="https://suisense.space/">Website</a> /
+        <a href="https://www.youtube.com/watch?v=QHpKJBVObhA">Demo</a> /
+        <a href="https://github.com/ayaanzhaque/SuiSense">Github</a> /
+        <a href="https://devpost.com/software/suisense-i2cnrd">Devpost</a> /
+        <a href="https://codeburst.io/suisense-an-innovative-approach-to-suicide-prevention-19cbdf150575?sk=bc16527363f641d1009754e0e77a5891">Medium Article</a> /
+        <a href="https://ayaanzhaque.github.io/SDCNL/">Research Paper (SDCNL)</a>
+        <p></p>
+        <p>SuiSense is a progressive web application that uses Artificial Intelligence (AI) and Natural Language Processing 
+          (NLP) to distinguish between depressive and suicidal phrases and help concerned friends and family determine whether 
+          their struggling loved one is on the path to suicide. SuiSense uses an implementation of <a href="https://ayaanzhaque.github.io/SDCNL/"></a>SDCNL.
+        </p>
+        <p>
+          🏆 4th Place Congressional App Challenge 2020 🏆 2nd Place @ GeomHacks 2020 🏆 HM @ MLH Summer League SHDH 2020 
+        </p>
+        <!-- <p>
+          In order to continue expanding our project and implementing it, we are currently working with two therapists, Dr. Paul Marcille
+          and Dr. Marilee Ruebsamen, who act as our advisors and consultants. With their help, we have begun an implementation process in our local community.
+        </p> -->
+        <p>
+          <b>Stack</b>: Python, HTML, CSS, JavaScript, Tensorflow, PyTorch, BERT, Flask, PythonAnywhere, Pandas, Sci-Kit Learn
+        </p>
+      </td>
+    </tr>
+
+    <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/drishti-rig.jpeg' class = "thumbnail" width="180">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://drishtiai.org/docs.html">
+          <papertitle>Drishti Smartphone Retinal Camera System</papertitle>
+        </a>
+        <br>
+        
+        <i>CAD Files and Implementation Drishti's Retinal Camera System Prototype</i>
+        <br>
+        June 2021 - Sep 2021
+        <br>
+        <a href="https://github.com/Drishti-BD/Drishti-CAD">Github (CAD Files)</a> /
+        <a href="https://youtu.be/K8nVQCHWzno">Assembly Guide</a> /
+        <a href="https://youtu.be/1zDsNmXHbFA">Instructional Guide</a> /
+        <a href="https://drishtiai.org/docs.html">Documentation</a> /
+        <a href="https://towardsdatascience.com/smartphone-based-retinal-camera-rig-for-ai-screening-4f7944d5a513?sk=af361f4e77c16059a887aa5592bc67c9">Technical Blog</a> /
+        <a href="https://drishtiai.org/">Drishti Website</a>
+        <p></p>
+        <p>This mobile, on-the-go system is designed for clinics in Bangladesh to screen patients for 
+          Diabetic Retinopathy (DR) using a smartphone camera with a retinal attachment. The purpose 
+          of this rig is to allow precise positioning of the smartphone to any patient's left and right 
+          eye such that the images can be efficiently fed into Drishti's AI algorithms for DR diagnosis. 
+          The system is completely adjustable for all head sizes. It is made of readily available 
+          components that can be purchased at many local hardware stores, and is designed for low-cost 
+          fabrication. All assembly tools are common household tools or easily purchasable/rentable 
+          from a local hardware store. The 3D-printed components can be printed on low-end machines 
+          and with cheap PLA filament. We designed this system to be completely collapsable, such that 
+          it can fit into a standard size backpack.
+        </p>
+        <p>
+          <b>Stack</b>: SolidWorks, Hardware Materials
+        </p>
+      </td>
+    </tr>
+
+    <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/tickbird.png' class = "thumbnail" width="180">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://tickbird.netlify.app/">
+          <papertitle>Tickbird</papertitle>
+        </a>
+        <br>
+        
+        <i>Streamlined prescription analysis for visually impaired patients</i> <span style="color:blue">(Available on the App Store)</span>
+        <br>
+        September 2019 - June 2020
+        <br>
+        <a href="https://tickbird.netlify.app/">Website</a> /
+        <a href="https://apps.apple.com/us/app/tickbird-co/id1508006830?ls=1">App Store</a> /
+        <a href="https://www.youtube.com/watch?v=7230378jFNk">Demo</a> /
+        <a href="https://github.com/rvignav/Tickbird">Github</a> /
+        <a href="https://docs.google.com/presentation/d/1dY442wAG3Hk91HyDZDluQm-OmfDMlNpH95d_u01IWZA/edit?usp=sharing">Slides</a> /
+        <a href="https://devpost.com/software/tickbird">Devpost</a>
+        <p></p>
+        <p>Tickbird is an advanced Swift mobile app based on the TesseractOCR neural network framework allowing visually impaired patients 
+          to aurally understand their prescriptions or the labels on their pill bottles in order to gain independence and avoid 
+          the prospect of lethal miscommunication regarding necessary medicines from their doctors. Moreover, the app's smart 
+          profiling feature not only finds the nearest pharmacy containing the user's prescription, but it also uses AI/ML 
+          algorithms to detect and set notifications for the times the user has to take or refill their medicine.
+        </p>
+        <p>
+          🏆 2x Award Winner @ OmniHacks 2019 🏆 App Store April 2020, 1000+ Impresions 
+        </p>
+        <p>
+          <b>Stack</b>: Swift, Xcode, IOS, Firebase, TesseractOCR, Ruby
+        </p>
+      </td>
+    </tr>
+
+    <!-- <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/tecconect.png' class = "thumbnail" width="180">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://tecconnect.tech/">
+          <papertitle>TecConnect</papertitle>
+        </a>
+        <br>
+        
+        <i>Connecting schools to donate or request devices to aid COVID Learning</i>
+        <br>
+        April 2020 - June 2020
+        <br>
+        <a href="https://tecconnect.tech/">Website</a> /
+        <a href="https://youtu.be/eep9ySXg_vA">Demo</a> /
+        <a href="https://github.com/ayaanzhaque/TecConnect">Github</a> /
+        <a href="https://drive.google.com/open?id=1Ee47YBi950PiapqS32xQgjRajwDxdv41Z-_5aRPkN6Y">Proposal</a> /
+        <a href="https://drive.google.com/open?id=1YfTJ62Jyqvhz7gQOhnRn55-TWZL59RQJpBskmdQ0BCw">Executive Summary</a> /
+        <a href="https://devpost.com/software/tecconnect">Devpost</a> /
+        <a href="https://medium.com/illumination/tecconnect-the-greatest-covid-education-proposal-that-ever-failed-6ebea230259e?sk=92622e4e52fd1836b107a8421d4fc1d0">Medium Article</a>
+        <p></p>
+        <p>TecConnect is a unique PWA that allows impoverished and wealthy schools to easily connect and transfer devices 
+          from those who have them to ones who don’t. Due to the COVID crisis, low-income students don't have access to 
+          devices, and as a result, are falling behind in their education. However, many schools have surpluses of devices 
+          that are currently being wasted.Thus, we developed TecConnect to allow struggling schools to request devices from 
+          schools with excess devices. We developed an application specifically for schools and the state government. We plan 
+          to implement our software as part of a statewide plan to promote device sharing in all schools.
+        </p>
+        <p>
+          🏆 1st Place Grand Prize Winner @ AI4ALL CreAItivity Challenge 2020
+          🏆 1st Place Grand Prize Winner @ Saratoga Congressional Hackathon 2020
+          🏆 Sponsor Prize Winner @ MLH Summer League RH 2020
+        </p>
+        <p>
+          <b>Stack</b>: HTML, Javascript, CSS, Firebase, MongoDB, Radar.io, Google Cloud
+        </p>
+      </td>
+    </tr> -->
+
+    <!-- <tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/predent.png' class = "thumbnail" width="180">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://predent.tech/">
+          <papertitle>PreDent</papertitle>
+        </a>
+        <br>
+        
+        <i>Using ML to promote safer driving by predicting crash hotspots</i>
+        <br>
+        June 2020
+        <br>
+        <a href="https://predent.tech/">Website</a> /
+        <a href="https://www.youtube.com/watch?v=LvzHXBrzpWo">Demo</a> /
+        <a href="https://github.com/ayaanzhaque/PreDent">Github</a> /
+        <a href="https://devpost.com/software/predent">Devpost</a> /
+        <a href="https://predent.tech/visualization.html">Documentation</a>
+        <p></p>
+        <p>PreDent is a unique progressive web application that identifies the accident-prone areas of a city through machine 
+          learning. The core of our project is an ML model that inputs static features (speed limits, road signs, road 
+          curvature, traffic volume), weather (precipitation, temperature), human factors, and many other attributes to 
+          ultimately output a map of city roads with hotspots of where collisions are likely.
+        </p>
+        <p>
+          🏆 1st Place Overall @ MLH Summer League Data Day Grind 2020 
+          🏆 1st Place Overall, Best Web Application 🏆 Sponsored Prize Winner @ MacroHacks 2020
+          🏆 2nd Place Overall @ PlatHacks 2020
+          🏆 3rd Place Overall @ HackMann 2020
+        </p>
+        <p>
+          <b>Stack</b>: Python, HTML, Javascript, CSS, Keras, GeoPandas, Sci-Kit Learn, UIPath, Google Cloud
+        </p>
+      </td>
+    </tr> -->
+
+
+  </tbody></table>
+
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  <tr>
+    
+  </tr>
+</tbody></table> -->
+
+  <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="awards"><tbody>
+    <tr>
+    <td style="padding:20px;width:100%;vertical-align:middle">
+      <heading>Awards, Honors, and Achievements</heading>
+      <p>
+        A brief summary of my relevant awards, honors, and achievements.
+      </p>
+    </td>
+  </tr>
+</tbody></table> -->
+
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+  <tr>
+    <td style="padding:20px;width:20%;vertical-align:middle">
+      <a href="https://aaai.org/Conferences/AAAI-21/student-abstract-and-poster-program/">
+        <papertitle>AAAI Best Student Abstract Finalist 2021</papertitle>
+      </a>
+      <br>
+      <p>Chosen as a finalist for best student papers for my EC-GAN paper at <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a> (Top-5 Overall CS Conference/Publication), only high schooler in 35 year history 
+        to be selected, 20 of the 105 qualifying papers selected as finalists, chosen for <a href="https://slideslive.com/38951242/ecgan-lowsample-classification-using-semisupervised-algorithms-and-gans?ref=account-83491-history">oral 3-minute thesis presentation</a>
+      </p>
+    </td>
+    <td style="padding:20px;width:20%;vertical-align:middle">
+      <a href="https://top.mlh.io/2021/profiles/ayaan-haque">
+        <papertitle>Major League Hacking Top 50 Hacker 2021</papertitle>
+      </a>
+      <br>
+      <p>
+        Chosen for Major League Hacking (MLH) Top 50 Hacker, which recognizes the most successful and 
+        impactful hackers in a community of 500,000 hackers. One of 5 high schoolers, chosen, 
+        second youngest chosen. Highlighted in <a href="https://top.mlh.io/2021/profiles/ayaan-haque">public profile</a>.
+      </p>
+    </td>
+    <td style="padding:20px;width:20%;vertical-align:middle">
+      <a href="https://www.youtube.com/watch?v=QHpKJBVObhA">
+        <papertitle>4th Place Congressional App Challenge</papertitle>
+      </a>
+      <br>
+      <p>Awarded 4th place for the <a href="https://www.congressionalappchallenge.us/">Congressional App Challenge</a> for our project SuiSense, a national programming challenge 
+        held by US Congress, received <a href="images/gallery/cac1.jpg">hand-written letter</a> from Congresswomen Anna Eshoo
+      </p>
+    </td>
+    <td style="padding:20px;width:20%;vertical-align:middle">
+      <a href="data/acirs-best-pres-certificate.pdf">
+        <papertitle>ACIRS Best Presentation Award 2021</papertitle>
+      </a>
+      <br>
+      <p>Selected as Best Presentation Award for our FCE-NN 
+        <a href="https://youtu.be/rkAp8RS7gqc">presentation </a>at 
+        <a href="http://www.acirs.org/">ACIRS 2021</a> (Top Robotics Conference/Publication), only high schoolers in history
+        to be selected
+      </p>
+    </td>
+    <td style="padding:20px;width:25%;vertical-align:middle">
+      <a href="https://devpost.com/ayaanzhaque">
+        <papertitle>33x Hackathon Winner</papertitle>
+      </a>
+      <br>
+      <p>Accumulated 33 hackathon awards for various projects, amongst the highest wins in history. Full list of projects available on <a href="https://devpost.com/ayaanzhaque">Devpost</a></p>
+    </td>
+  </tr>
+  
+  
+</tbody></table> -->
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="writing"><tbody>
+
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr>
+    <td style="padding:20px;width:100%;vertical-align:middle">
+      <heading>Writing</heading>
+      <p>
+        I write on Medium (semi-regularly) to share my thoughts with the world. Here are a few of my favorite medium articles that I have written.
+      </p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle">
+      <div class="one">
+        <img src='images/whatfpoint.jpeg' class = "thumbnail" width="180">
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://ayaanzhaque.medium.com/in-response-to-whats-the-f-ing-point-dd70654098e9">
+        <papertitle>In Response to “What’s the F-ing Point?”</papertitle>
+      </a>
+      <br>
+      
+      <span id="left">No Publication, will not profit off this story</span>
+      <span id="right">October 6th, 2021</span>
+      <br>
+      <p>
+        <i>A response to an article discussing our purpose in this world combined with a discussion of my own purpose</i>
+      </p>
+      <p>
+        This article is a reponse to my friend's <a href="https://medium.com/illumination/whats-the-f-ing-point-da2e0ff66c91">article</a>, where
+        he discusses critiques of our Saratoga society. In my article, I respond to his ideas and then share my own story of finding my purpose in life.
+      </p>
+    </td>
+  </tr>
+
+  <!-- <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle">
+      <div class="one">
+        <img src='images/burnout.jpeg' class = "thumbnail" width="180">
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://towardsdatascience.com/burnout-the-bane-of-progress-3ad7585afb08?sk=3412f4ad4b421063a503a2c4d3e097e1">
+        <papertitle>Burnout — The Bane of Progress</papertitle>
+      </a>
+      <br>
+      
+      <span id="left">Towards Data Science</span>
+      <span id="right">April 4th, 2021</span>
+      <br>
+      <p>
+        <i>How being an AI developer, hacker, and researcher lead to some of my lowest moments</i>
+      </p>
+      <p>
+        This is a personal narrative and reflection on how I have learned to cope 
+        through draining times as an AI developer.
+      </p>
+    </td>
+  </tr> -->
+
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle">
+      <div class="one">
+        <img src='images/hacksquad_article.png' class = "thumbnail" width="180">
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://betterprogramming.pub/how-five-high-schoolers-won-9-5k-from-hackathons-in-one-summer-8130e21cce55?sk=18bc995bebf9d61baf418c8c12a458b6">
+        <papertitle>How Five High-Schoolers Won $9.5K From Hackathons in One Summer</papertitle>
+      </a>
+      <br>
+      
+      <span id="left">Better Programming</span>
+      <span id="right">August 28th, 2020</span>
+      <br>
+      <p>
+        <i>Coding, winning prizes, and proving ourselves</i>
+      </p>
+      <p>
+        Authored by Ayaan Haque, Adithya Peruvemba, Viraaj Reddi, Sajiv Shah, and Ishaan Bhandari
+      </p>
+      <p>
+        This article travels through the journey of my team, Haleakala Hacksquad, and how we became great hackers.
+      </p>
+    </td>
+  </tr>
+
+</tbody></table>
+
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="service"><tbody>
+  <tr>
+  <td style="padding:20px;width:100%;vertical-align:middle">
+    <heading>Community Service Projects</heading>
+    <p>
+      With my technical skills, I love contributing to my community and learning the stories of those I support. Whether 
+      these are my local communities or my home country Bangladesh, I always build strong relationships with those I serve. 
+    </p>
+  </td>
+</tr>
+</tbody></table> -->
+<!-- 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+<tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+  <td style="padding:20px;width:25%;vertical-align:middle">
+    <div class="one">
+      <img src='images/drishti.png' class = "thumbnail" width="180">
+    </div>
+  </td>
+  <td style="padding:20px;width:75%;vertical-align:middle">
+    <a href="https://drishtiai.org/">
+      <papertitle>Drishti</papertitle>
+    </a>
+    <br>
+    <span id="left">Founder</span>
+    <span id="right">November 2019 - Present</span>
+    <br>
+    <a href="https://drishtiai.org/">Website</a> / 
+    <a href="https://youtu.be/6KIZcjxwBRg">Video Guide</a> /
+    <a href="https://github.com/Drishti-BD">Github Organization</a> /
+    <a href="https://arxiv.org/abs/2108.04358">Paper</a> / 
+    <a href="https://github.com/Drishti-BD/Drishti-CNN">CNN Code</a> /
+    <a href="https://github.com/Drishti-BD/Drishti-CAD">Smartphone System Design</a>
+    <p></p>
+    <p>Drishti is an organization with an AI algorithm that screens Bangladeshi patients for diabetic retinopathy (DR).
+      Our mission is to provide free, accessible early screening to areas where DR specialists are 
+      not available. With academic, clinical, and organizational support, we are able to widen the 
+      reach of our service. We are partnered with BRAC University and have published a validation study on the algorithm,
+      achieving high accuracy on Bangladeshi eyes. In addition, we have developed a novel 
+      smartphone retinal camera system (patent application in process) which will be integrated into our clinics.
+    </p>
+  </td>
+</tr>
+
+<tr onmouseout="nerfie_stop()" onmouseover="nerfie_start()">
+  <td style="padding:20px;width:25%;vertical-align:middle">
+    <div class="one">
+      <img src='images/jaago.jpg' class = "thumbnail" width="180">
+    </div>
+  </td>
+  <td style="padding:20px;width:75%;vertical-align:middle">
+    <a href="https://jaagorobotics.tech/">
+      <papertitle>Jaago Robotics</papertitle>
+    </a>
+    <br>
+    <span id="left">Founder</span>
+    <span id="right">May 2018 - Present</span>
+    <br>
+    <a href="https://jaagorobotics.tech/">Website</a>
+    <p></p>
+    <p>Jaago Robotics is an organization partnered with the <a href="https://www.jaago.com.bd/">Jaago Foundation</a> to teach robotics and coding to students at the Jaago School (a tuition free institute). As a branch of the Jaago Foundation, we use the Lego Mindstorms EV3 
+      Robotics kit to help young students learn introductory robotics concepts, providing new opportunities for bright students. We go once every year and have gone twice 
+      so far (in the summer of 2018 and winter of 2019) and have taught over 20+ students.
+    </p>
+    <p>
+      I founded Jaago Robotics with my brother the summer of 2018, as a rising freshman. We have achieved so much with the students, 
+      most notably when the students presented their work to sponsors from Levi Strauss to receive funding for their school.
+      We plan to return in December of 2021 to work with even more students.
+    </p>
+  </td>
+</tr>
+
+</tbody></table> -->
+
+  <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" id="socials"><tbody>
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr>
+      <td style="padding:20px;width:100%;vertical-align:middle">
+        <heading>Social</heading>
+        <p>
+          Check out my social media!
+          <p style="text-align:center">
+            <a href="https://www.youtube.com/channel/UC8mX6xoUHJieyXeqwqnBZxw">Youtube</a> <i class="fa fa-youtube"></i> &nbsp/&nbsp
+            <a href="https://twitter.com/ayaanzhaque">Twitter</a> <i class="fa fa-twitter"></i> &nbsp/&nbsp
+            <a href="https://www.facebook.com/ayaan.haque.902">Facebook</a> <i class="fa fa-facebook"></i> &nbsp/&nbsp
+            <a href="https://www.instagram.com/ayaanzhaque/">Instagram</a> <i class="fa fa-instagram"></i> &nbsp/&nbsp
+            <a href="https://open.spotify.com/user/yaanhawk24?si=82d3872d77c44a9a">Spotify</a> <i class="fa fa-spotify"></i>
+          </p>
+        </p>
+      </td>
+    </tr>
+  </tbody></table> -->
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr>
+      <td style="padding:0px">
+        <br>
+        <p style="text-align:right;font-size:small;">
+          Website template from <a href="https://jonbarron.info/">Jon Barron</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</body>
+
+</html>
+
+<style>
+  #left{
+     float:left;
+  }
+  #right{
+      float:right;
+  }
+
+  .fa {
+  padding: 5px;
+  font-size: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #E1306C;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+
+.fa-spotify {
+  background: black;
+  color: #1DB954;
+}
+
+
+.thumbnail {
+  /* padding: 50px; */
+  transition: transform 0.5s;
+  /* width: auto;
+  height: auto; */
+  margin: 0 auto;
+}
+
+.thumbnail:hover {
+  -ms-transform: scale(1.25); /* IE 9 */
+  -webkit-transform: scale(1.25); /* Safari 3-8 */
+  transform: scale(1.25); 
+}
+
+.list-inline-item {
+    display: inline-block;
+}
+
+/* li:before
+{
+    content: '•';   
+    margin-left: -1em;
+    margin-right: .100em;
+} */
+
+/* li.headerlinks {
+    content;  "";
+} */
+
+ul.a
+{
+   padding-left: 20px;
+   text-indent: 2px;
+   list-style: none;
+   list-style-position: outside;
+}
+
+ul
+{
+   padding-left: 20px;
+   text-indent: 2px;
+   /* list-style: none; */
+   /* list-style-position: outside; */
+}
+
+.dev-icons {
+  font-size: 3rem
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  position: relative;
+  width: auto;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #1772d0;
+}
+
+.container:hover .overlay {
+  opacity: 0.7;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+</style>
