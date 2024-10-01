@@ -1,0 +1,29 @@
+More details:
+-----------------------------------------------------------------------------------------------------------------
+Computational Light Laboratory organizes a seminar series named High-Beams. High-Beams seminar series is an exclusive event where we host experts across the industry and academia. Overall, seminars are a blend of internal and external presenters. 
+
+For more details visit: 
+https://complightlab.com/outreach/
+-----------------------------------
+Presenter: 
+Binglun Wang, PhD student, University College London (UCL) 
+
+Title:
+3D Editings using Diffusion Models
+
+Abstract:
+In this talk, 
+Binglun Wang will present his research works and related work in 3D Radiance Field and Mesh Editing using Diffusion Models and share his insight and conculsion in 3D editing task.
+
+Binglun will firstly present 3D Radiance Field editing related works and his work:  ProteusNeRF, accepted in I3D 2024 with Niloy Mitra at UCL. ProteusNeRF is a fast and lightweight framework for interactive editing of NeRF assets via existing image manipulation tools or generative frameworks. This is enabled by a novel 3D-aware image context that allows linking edits across multiple views. Currently, the 3D-aware image context methods have used in many industrial application related to solve inconsistent issues.
+
+In the second part, he will present how to input an untextured mesh, output a fully textured mesh in related works and his current 3D mesh editing work  Autotexturing++, finished in September 2024 at Adobe Research with Duygu Ceylan.
+
+Speaker Biography:
+
+Binglun Wang is a fully funded 4-year (10/2024-10/2028) PhD student at University College London (UCL) VECG group work with He Wang and Niloy Mitra. Binglun is also a visiting researcher at Adobe Research London work closely with Duygu Ceylan and Niloy Mitra. 
+
+Binglun's research interests: My research interest span Computer Graphics, Machine Learning and Computational Physics, all are important to me in exploring new ways of physically realistic digital creation. Currently, I focus on the research of physics-based character-fluid simulation and 3D/4D editing.
+
+More information in Binglun's personal webpage:
+https://binglunwang.github.io/
