@@ -42,13 +42,13 @@
                 <p class="text-gray-700 mb-6">This illustrates the motion of an articulated character swimming in a fluid, viewed from the side and top side. The character's joint movements are controlled by joint torques from a PD controller output. The forward and rotational motion are produced entirely by the simulated hydrodynamic forces, demonstrating a physically-based interaction between the articulated body and its environment.</p>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div class="video-card overflow-hidden">
-                        <video src="video/gt_evaluate__state_342_pretrained_model_sideview.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/gt_evaluate__state_342_pretrained_model_sideview.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">Side View</h3>
                         </div>
                     </div>
                     <div class="video-card overflow-hidden">
-                        <video src="video/gt_evaluate__state_342_pretrained_model_topview.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/gt_evaluate__state_342_pretrained_model_topview.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">Top View</h3>
                         </div>
@@ -62,13 +62,13 @@
                 <p class="text-gray-700 mb-6">PPO control for a single rigid body swimming. The left video shows the policy in the trained static fluid environment. The right video demonstrates a zero-shot transfer of the same policy to an unseen dynamic wave environment.</p>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div class="video-card overflow-hidden">
-                        <video src="video/keypoint3_best.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/keypoint3_best.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">Trained in Static Fluid</h3>
                         </div>
                     </div>
                     <div class="video-card overflow-hidden">
-                        <video src="video/static_train_l2r.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/static_train_l2r.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">Zero-Shot in Wave Environment</h3>
                         </div>
@@ -81,7 +81,7 @@
                 <h2 class="text-2xl font-semibold border-b-2 border-blue-500 pb-2 mb-4">Stable Simulator Demonstration</h2>
                 <div class="grid grid-cols-1 gap-8">
                     <div class="video-card overflow-hidden">
-                        <video src="video/stable_test.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/stable_test.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">System Stability Test</h3>
                             <p class="text-gray-600 text-sm mt-1">During initial integration, the system was unstable. After a systematic hyperparameter search, we achieved a stable system with a 50x speedup. This video validates the final system's robustness by applying various external joint torque and a forward forces on root to the character.</p>
@@ -95,7 +95,7 @@
                 <h2 class="text-2xl font-semibold border-b-2 border-blue-500 pb-2 mb-4">PPO control in zero-gravity environment</h2>
                 <div class="grid grid-cols-1 gap-8">
                     <div class="video-card overflow-hidden">
-                        <video src="video/zerogravity_PPO_control.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/zerogravity_PPO_control.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">PPO Training in Zero Gravity</h3>
                             <p class="text-gray-600 text-sm mt-1">As a simplification, we trained a policy to "swim" in air with zero gravity. While successful for learning basic patterns, it did not capture the complexities of fluid interaction and could not adapt to a fluid environment.</p>
@@ -110,13 +110,13 @@
                 <p class="text-gray-700 mb-6">We reduced task complexity by training a policy for a single arm DoF, with other 5 DoFs control by a PD controller with data input. Within half a day training, this 1-DoF policy learned a swimming strategy. These videos show the resulting motion.</p>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div class="video-card overflow-hidden">
-                        <video src="video/rram_side_view_ppo.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/rram_side_view_ppo.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">1-DoF Control (Side View)</h3>
                         </div>
                     </div>
                     <div class="video-card overflow-hidden">
-                        <video src="video/rram_topview_ppo.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/rram_topview_ppo.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">1-DoF Control (Top View)</h3>
                         </div>
@@ -130,13 +130,13 @@
                 <p class="text-gray-700 mb-6">Our recent approach version controls motion with frequency domain input. After training the policy in a zero-gravity environment, we performed a zero-shot transfer into the full fluid simulation. The resulting motion, achieved without any direct training in the fluid, successfully exhibited a coherent swimming pattern.</p>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div class="video-card overflow-hidden">
-                        <video src="video/zeroshot_sideview.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/zeroshot_sideview.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">Zero-Shot Result (Side View)</h3>
                         </div>
                     </div>
                     <div class="video-card overflow-hidden">
-                        <video src="video/zeroshot_topview.mp4" controls autoplay muted loop class="w-full"></video>
+                        <video src="./video/zeroshot_topview.mp4" controls autoplay muted loop class="w-full"></video>
                         <div class="p-4">
                             <h3 class="font-semibold text-lg">Zero-Shot Result (Top View)</h3>
                         </div>
