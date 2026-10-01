@@ -73,11 +73,49 @@
     <!-- ===== Publication ===== -->
     <section class="section"><heading>Publication</heading></section>
 
-    <article class="entry" onmouseout="nuvo_stop()" onmouseover="nuvo_start()">
+    <article class="entry">
       <div class="entry-media">
         <div class="one">
-          <div class="two" id="nuvo_image">
-            <video width="100%" muted autoplay loop>
+          <div class="two">
+            <video width="100%" muted loop playsinline preload="metadata" poster="publication/swim_before.jpg">
+              <source src="publication/swim_after.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          <img src="publication/swim_before.jpg" alt="SWIM">
+        </div>
+      </div>
+
+      <div class="entry-info">
+        <a href="https://binglunwang.github.io/SWIM/">
+          <papertitle>SWIM: Compact Environment Representation for Reinforcement Learning Human Swimming</papertitle>
+        </a>
+        <br>
+        <strong>Binglun Wang</strong>,
+        <a href="https://yilmazdoga.net/">Doğa Yılmaz</a>,
+        <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a>,
+        <a href="http://www.edho.net/">Edmond S. L. Ho</a>,
+        <a href="https://drhewang.com/">He Wang</a>
+        <br>
+        <em>Preprint, 2026</em>
+        <br>
+        <a href="https://binglunwang.github.io/SWIM/"><i class="fa-solid fa-earth-americas"></i> Project Page</a> /
+        <span class="soon"><i class="ai ai-arxiv"></i> arXiv (coming soon)</span> /
+        <span class="soon"><i class="fab fa-github"></i> Code (coming soon)</span>
+        <p>
+          A reinforcement learning framework for physically-based human swimming, learned from a
+          single reference motion. A compact, low-dimensional representation of the body–water
+          force exchange lets one policy generalize to unseen goals, trajectories, flows, fluids,
+          perturbations and body morphologies, across all four competitive strokes.
+        </p>
+      </div>
+    </article>
+
+    <article class="entry">
+      <div class="entry-media">
+        <div class="one">
+          <div class="two">
+            <video width="100%" muted loop playsinline preload="metadata" poster="publication/proteus_before.jpg">
               <source src="publication/proteus_after.mp4" type="video/mp4">
               Your browser does not support the video tag.
             </video>
@@ -114,21 +152,31 @@
     <!-- ===== Footer ===== -->
     <footer class="site-footer">
       Design and source code from <a href="https://jonbarron.info">Jon Barron</a>'s website.<br>
-      Last updated August 2024.
+      Last updated October 2026.
     </footer>
 
   </main>
 
   <script>
-    function nuvo_start() {
-      document.getElementById('nuvo_image').style.opacity = "1";
-    }
+    document.querySelectorAll('.entry').forEach(function (entry) {
+      var overlay = entry.querySelector('.two');
+      if (!overlay) return;
+      var video = overlay.querySelector('video');
+      overlay.style.opacity = '0';
 
-    function nuvo_stop() {
-      document.getElementById('nuvo_image').style.opacity = "0";
-    }
+      entry.addEventListener('mouseenter', function () {
+        overlay.style.opacity = '1';
+        if (video) {
+          var played = video.play();
+          if (played && played.catch) played.catch(function () {});
+        }
+      });
 
-    nuvo_stop();
+      entry.addEventListener('mouseleave', function () {
+        overlay.style.opacity = '0';
+        if (video) video.pause();
+      });
+    });
   </script>
 </body>
 </html>

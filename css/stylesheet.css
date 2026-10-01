@@ -219,6 +219,11 @@ video {
   object-fit: cover;
 }
 
+/* "coming soon" link placeholders */
+.soon {
+  color: #888;
+}
+
 .fade {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
